@@ -1,13 +1,10 @@
 <div align="center">
-  <img src="https://via.placeholder.com/200x80/0066FF/FFFFFF?text=LoyanCode" alt="LoyanCode Logo" />
   
-  # LoyanCode
+  # 🚀 LoyanCode
   
   **Transformamos Ideas en Soluciones Digitales de Alto Impacto**
   
-  [![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)](https://github.com/loyancode)
-  [![Projects](https://img.shields.io/badge/Projects-Confidential-blue?style=flat-square)](#)
-  [![Team](https://img.shields.io/badge/Team-2%20Engineers-orange?style=flat-square)](#team)
+  [![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)](https://github.com/loyancode) [![Projects](https://img.shields.io/badge/Projects-Confidential-blue?style=flat-square)](#) [![Team](https://img.shields.io/badge/Team-2%20Engineers-orange?style=flat-square)](#team)
   
 </div>
 
@@ -30,23 +27,23 @@ Ser reconocidos como líderes en el desarrollo de soluciones tecnológicas perso
 <table>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/60x60/0066FF/FFFFFF?text=🌐" alt="Web Development" width="60"/>
-      <br><strong>Desarrollo Web</strong>
+      <h3>🌐</h3>
+      <strong>Desarrollo Web</strong>
       <br><sub>Aplicaciones web modernas y escalables</sub>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/60x60/0066FF/FFFFFF?text=📱" alt="Mobile Development" width="60"/>
-      <br><strong>Desarrollo Móvil</strong>
+      <h3>📱</h3>
+      <strong>Desarrollo Móvil</strong>
       <br><sub>Apps nativas e híbridas multiplataforma</sub>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/60x60/0066FF/FFFFFF?text=⚙️" alt="Backend Development" width="60"/>
-      <br><strong>Backend & APIs</strong>
+      <h3>⚙️</h3>
+      <strong>Backend & APIs</strong>
       <br><sub>Microservicios y arquitecturas robustas</sub>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/60x60/0066FF/FFFFFF?text=☁️" alt="Cloud Solutions" width="60"/>
-      <br><strong>Soluciones Cloud</strong>
+      <h3>☁️</h3>
+      <strong>Soluciones Cloud</strong>
       <br><sub>Infraestructura y despliegue en la nube</sub>
     </td>
   </tr>
@@ -56,11 +53,27 @@ Ser reconocidos como líderes en el desarrollo de soluciones tecnológicas perso
 
 ## 🏗️ Stack Tecnológico
 
+<table>
+<tr>
+<td width="50%">
+
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</td>
+<td width="50%">
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -68,19 +81,19 @@ Ser reconocidos como líderes en el desarrollo de soluciones tecnológicas perso
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -112,10 +125,10 @@ LoyanCode/
 5. **🔧 Soporte** - Mantenimiento continuo y mejoras
 
 ### Herramientas de Gestión
-- **Linear** - Gestión de proyectos y seguimiento de tareas
-- **GitHub** - Control de versiones y colaboración
-- **Figma** - Diseño UI/UX y prototipado
-- **Notion** - Documentación y base de conocimiento
+- **📋 Linear** - Gestión de proyectos y seguimiento de tareas
+- **🐙 GitHub** - Control de versiones y colaboración
+- **🎨 Figma** - Diseño UI/UX y prototipado
+- **📝 Notion** - Documentación y base de conocimiento
 
 ---
 
@@ -124,8 +137,8 @@ LoyanCode/
 <table>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/100x100/0066FF/FFFFFF?text=BO" alt="Brayan Orozco" width="100" style="border-radius: 50%;"/>
-      <br><strong>Brayan Orozco</strong>
+      <h2>👨‍💻</h2>
+      <strong>Brayan Orozco</strong>
       <br><sub>Co-fundador & Full Stack Developer</sub>
       <br>
       <a href="https://linkedin.com/in/brayan-orozco">
@@ -133,8 +146,8 @@ LoyanCode/
       </a>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/100x100/0066FF/FFFFFF?text=CL" alt="Cristihan Lobo" width="100" style="border-radius: 50%;"/>
-      <br><strong>Cristihan Lobo</strong>
+      <h2>👨‍💻</h2>
+      <strong>Cristihan Lobo</strong>
       <br><sub>Co-fundador & Full Stack Developer</sub>
       <br>
       <a href="https://linkedin.com/in/cristihan-lobo">
