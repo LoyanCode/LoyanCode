@@ -195,4 +195,3 @@ LoyanCode/
   <br>
   <sub>© 2024 LoyanCode. Todos los derechos reservados.</sub>
 </div>
-```
